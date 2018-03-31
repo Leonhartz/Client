@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8C7B769A-1D7D-C29A-4EAE-5C1E34FD650D}</ProjectGuid>
+    <ProjectGuid>{5544F79C-5306-909F-C855-53D6959D5DFD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -125,10 +125,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="uLinkEditor">
- <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Assets/Plugins/Editor/uLink/Assembly/uLinkEditor.dll</HintPath>
+ <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Client/Assets/Plugins/Editor/uLink/Assembly/uLinkEditor.dll</HintPath>
  </Reference>
  <Reference Include="uLink">
- <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Assets/Plugins/uLink/Assembly/uLink.dll</HintPath>
+ <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Client/Assets/Plugins/uLink/Assembly/uLink.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/Seyha/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -154,13 +154,13 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{F24F1025-1A04-D7A8-B6A7-C0D378706514}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{079D398E-4AFC-CD7E-7881-F923D075EBD1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{FB4A80A6-F8CD-49DC-865D-210E6121E996}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{12F44184-A422-5F27-22E6-507969043F15}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript.csproj">
-      <Project>{8103D92E-E3D5-786F-4B39-38DC2D35431E}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
+      <Project>{6F6431C8-D3A8-6F64-A382-5D8EFB5443F7}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{BE2FEE63-BCF5-132E-1C0D-913FE32ACA5D}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+      <Project>{2292066C-03A4-5733-4636-43653C20A180}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

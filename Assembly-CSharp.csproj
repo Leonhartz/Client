@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FB4A80A6-F8CD-49DC-865D-210E6121E996}</ProjectGuid>
+    <ProjectGuid>{12F44184-A422-5F27-22E6-507969043F15}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -157,10 +157,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="uLinkEditor">
- <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Assets/Plugins/Editor/uLink/Assembly/uLinkEditor.dll</HintPath>
+ <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Client/Assets/Plugins/Editor/uLink/Assembly/uLinkEditor.dll</HintPath>
  </Reference>
  <Reference Include="uLink">
- <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Assets/Plugins/uLink/Assembly/uLink.dll</HintPath>
+ <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Client/Assets/Plugins/uLink/Assembly/uLink.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/Seyha/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -186,7 +186,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{F24F1025-1A04-D7A8-B6A7-C0D378706514}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{079D398E-4AFC-CD7E-7881-F923D075EBD1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

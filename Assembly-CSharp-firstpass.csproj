@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F24F1025-1A04-D7A8-B6A7-C0D378706514}</ProjectGuid>
+    <ProjectGuid>{079D398E-4AFC-CD7E-7881-F923D075EBD1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -168,10 +168,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="uLinkEditor">
- <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Assets/Plugins/Editor/uLink/Assembly/uLinkEditor.dll</HintPath>
+ <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Client/Assets/Plugins/Editor/uLink/Assembly/uLinkEditor.dll</HintPath>
  </Reference>
  <Reference Include="uLink">
- <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Assets/Plugins/uLink/Assembly/uLink.dll</HintPath>
+ <HintPath>C:/My_Projects/Unity_Projects/IgnisVerum/Client/Assets/Plugins/uLink/Assembly/uLink.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/Seyha/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
